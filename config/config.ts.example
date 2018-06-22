@@ -1,0 +1,8 @@
+export const config = {
+  mongoDb: {
+    host: '@ds163610.mlab.com:63610/',
+    database: 'nestjs-backend-formservice',
+    username: 'example_username',
+    password: 'password1234'
+  }
+}
